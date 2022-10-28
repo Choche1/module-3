@@ -1,10 +1,13 @@
+'''
+You should work on your own not quoting the source codes from other source.
+
 # Sample Python/Pygame Programs
 # Simpson College Computer Science
 # http://programarcadegames.com/
 # http://simpson.edu/computer-science/
  
 # Explanation video: http://youtu.be/JK5ht5_m6Mk
- 
+''' 
 # Calculate Miles Per Gallon
 print("This program calculates mpg.")
  
