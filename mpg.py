@@ -9,6 +9,7 @@
 print("This program calculates mpg.")
  
 # Get miles driven from the user
+#You can write it in one line: miles_driven = float(input("Enter miles drived: "))
 miles_driven = input("Enter miles driven:")
 # Convert text entered to a
 # floating point number
